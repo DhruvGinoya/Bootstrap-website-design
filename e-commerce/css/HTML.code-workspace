@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../HTML"
+		},
+		{
+			"path": "../../../css task self/zomato website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML",
+		"liveServer.settings.port": 5501
+	}
+}
